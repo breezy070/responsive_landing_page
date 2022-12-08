@@ -4,11 +4,13 @@
     --clr-accent-300: hsl(12, 88%, 75%); 
     --clr-accent-100: hsl(13, 100%, 96%); 
 
-    /* --clr-primary-400: hsl(228, 39%, 23%); */
-    /* github testing */
-    --clr-primary-400: black;
+     --clr-primary-400: hsl(228, 39%, 23%);
 
-    --clr-neutral-900: hsl(232, 12%, 13%);
+
+    /* --clr-neutral-900: hsl(232, 12%, 13%); */
+    --clr-neutral-900: yellow;
+
+
     --clr-neutral-200: hsl(0, 0%, 97%);
     --clr-neutral-100: hsl(0, 0%, 100%);
 
